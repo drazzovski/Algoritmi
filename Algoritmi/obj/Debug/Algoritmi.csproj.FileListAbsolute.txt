@@ -1,0 +1,7 @@
+C:\Users\Axelyos\source\repos\Algoritmi\Algoritmi\bin\Debug\Algoritmi.exe.config
+C:\Users\Axelyos\source\repos\Algoritmi\Algoritmi\bin\Debug\Algoritmi.exe
+C:\Users\Axelyos\source\repos\Algoritmi\Algoritmi\bin\Debug\Algoritmi.pdb
+C:\Users\Axelyos\source\repos\Algoritmi\Algoritmi\obj\Debug\Algoritmi.csprojAssemblyReference.cache
+C:\Users\Axelyos\source\repos\Algoritmi\Algoritmi\obj\Debug\Algoritmi.csproj.CoreCompileInputs.cache
+C:\Users\Axelyos\source\repos\Algoritmi\Algoritmi\obj\Debug\Algoritmi.exe
+C:\Users\Axelyos\source\repos\Algoritmi\Algoritmi\obj\Debug\Algoritmi.pdb
